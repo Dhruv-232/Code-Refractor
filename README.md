@@ -12,3 +12,8 @@ According to the user story and the acceptance criteria provided, the website wa
 
 ![portfolio demo](./assets/images/Screenshot(Challenge).png)
 
+Link for the website: 
+https://dhruv-232.github.io/Module-1-Challenge/
+
+Link for Github repository:
+https://github.com/Dhruv-232/Module-1-Challenge
