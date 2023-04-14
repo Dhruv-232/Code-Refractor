@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Code Refractor
 Module 1 challenge code for Horiseon website
 
 As part of the Module-1-Challenge, the Horiseon website was edited and fixed according to the user story and the acceptance criteria provided.
